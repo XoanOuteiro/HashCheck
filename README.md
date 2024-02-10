@@ -6,12 +6,14 @@
  ## Installation
 
  Clone this repository:
- '''shell
+ 
+ ''' shell
  git clone https://github.com/XoanOuteiro/HashCheck
  '''
 
  Then move into the repository folder and run:
- '''shell
+ 
+ ''' shell
  pip install -r requirements.txt
  '''
 
